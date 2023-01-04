@@ -1,5 +1,6 @@
 # SQL Queries
-# SQl Queries
+
+## Here are some examples of made-up SQL queries in plain English
 
 | example                                                                                                        | Specific SELECT | FUNCTIONS | WHERE       | GROUP BY | ORDER BY | TIME RANGE    | HAVING | JOIN   |
 | -------------------------------------------------------------------------------------------------------------- | --------------- | --------- | ----------- | -------- | -------- | ------------- | ------ | ------ |
